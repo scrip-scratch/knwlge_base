@@ -4,10 +4,10 @@
 
 #### Creational (Порождающие)
 
-[Abstract Factory](/patterns/Creational/AbstractFactory.md)
-[Builder](/patterns/Creational/Builder.md)
-[Factory Method](/patterns/Creational/FactoryMethod.md)
-[Prototype](/patterns/Creational/Prototype.md)
+[Abstract Factory](/patterns/Creational/AbstractFactory.md) <br />
+[Builder](/patterns/Creational/Builder.md) <br />
+[Factory Method](/patterns/Creational/FactoryMethod.md) <br />
+[Prototype](/patterns/Creational/Prototype.md) <br />
 [Singleton](/patterns/Creational/Singleton.md)
 
 ---
