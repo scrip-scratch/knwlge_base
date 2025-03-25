@@ -9,6 +9,7 @@
 [Factory Method](/patterns/Creational/FactoryMethod.md) <br />
 [Prototype](/patterns/Creational/Prototype.md) <br />
 [Singleton](/patterns/Creational/Singleton.md) <br />
+
 ---
 
 #### Structural (Структурные)
